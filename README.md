@@ -25,7 +25,7 @@ After cleaning the data, the exploration phase addresses five key business quest
 
 4) Frequently Co-Purchased Products: Finding combinations of products that are often purchased together.
 
-5) Top-Selling Product Analysis: Identifying the best-selling product and exploring reasons behind its success.
+5) Top-Selling Product Analysis: Identifying the best-selling product .
 
 
 # Methods Used
